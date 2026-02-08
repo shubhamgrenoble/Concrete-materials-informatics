@@ -18,7 +18,7 @@ It was developed to solve the common industry challenge of optimizing concrete f
 ## Results
 - **Physical Model:** $R^2 \approx 0.60$ (Provides interpretability and baseline)
 - **Hybrid Random Forest:** $R^2 > 0.90$ (Provides high precision)
-- **Outcome:** The model successfully identifies mix designs that meet strength requirements while optimizing for sustainability.
+- **Outcome:** The model identifies mix designs that satisfy strength constraints while optimizing cement volume, leading to reduced material cost and improved sustainability.
 
 ## How to Run
 1. Install dependencies:
